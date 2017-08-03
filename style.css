@@ -1,10 +1,11 @@
 .blue-text {
     color: blue;
 }
-h2 {
+h1 {
     /*adding two types of font will ensure that if the page cannot/does not have
     the font, aonther font is available to use */
     font-family: Lobster, monospace; 
+    font-size: 20px;
 }
 
 p {
@@ -13,7 +14,7 @@ p {
 }
 
 .smaller-image{
-    width: 1500px;
+    width: 500px;
     border-radius: 10px;
 }
 
