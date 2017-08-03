@@ -1,0 +1,14 @@
+.blue-text {
+    color: blue;
+}
+h2 {
+    /*adding two types of font will ensure that if the page cannot/does not have
+    the font, aonther font is available to use */
+    font-family: Lobster, monospace; 
+}
+
+p {
+    font-size: 16px;
+    font-family: monospace;
+}
+
