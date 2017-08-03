@@ -13,6 +13,7 @@ p {
 }
 
 .smaller-image{
-    width: 500px;
+    width: 1500px;
+    border-radius: 10px;
 }
 
